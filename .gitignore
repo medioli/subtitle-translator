@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Modelos descargados por Whisper/Argos (se descargan automático, no hace falta versionarlos)
+.cache/
+*.bin
